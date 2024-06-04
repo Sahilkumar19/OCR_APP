@@ -13,7 +13,7 @@ OCR_APP is a simple Flask-based web application that converts unsearchable PDF f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/OCR_APP.git
+    git clone https://github.com/Sahilkumar19/OCR_APP.git
     cd OCR_APP
     ```
 
